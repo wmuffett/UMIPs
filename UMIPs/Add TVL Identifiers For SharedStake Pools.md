@@ -1,8 +1,12 @@
 ## Headers
 UMIP Title: Create KPI Options for SharedStake using SGT as Collateral; Using Price Identifiers for SGT, SGT/ETH UNI LP, and vETH2
+
 Status: Draft
+
 Authors: Warren Muffett and Chimera
+
 Discourse: https://discourse.umaproject.org/t/add-utvl-kpi-sgt-as-a-price-identifier/860
+
 Created: May 16th, 2021
 
 ## Summary 
