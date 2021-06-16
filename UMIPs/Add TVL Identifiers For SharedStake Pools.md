@@ -59,8 +59,6 @@ Scaling Decimals: 18 (1e18)
 
 Rounding: Round to nearest 8 decimal places (seventh decimal place digit >= 5 rounds up and < 5 rounds down)
 
-There are now five assets approved as collateral within SharedStake’s staking contracts. These pools have been summarized previously. To maintain consistency with existing price identifier UMIPs, it is suggested that TVL is calculated using the deepest DEX pools on Uniswap and Sushiswap. There are constant changes in the SharedStake reward contracts, so we will just track total vETH2 in existance and the price of SGT. 
-
 vETH2 Minining SGT Rewards can be found here: https://etherscan.io/token/0x898bad2774eb97cf6b94605677f43b41871410b1?a=0xA919D7a5fb7ad4ab6F2aae82b6F39d181A027d35.
  mentioned above
 
